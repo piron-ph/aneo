@@ -71,7 +71,7 @@ html {
 }
 
 .nav-item:not(.is-active):hover {
-  color: #333;
+  color: #fff;
 }
 
 .nav-indicator {
